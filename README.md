@@ -23,3 +23,7 @@
 ## Career Goal
 
 My goal is to build strong skills in software development and create useful technology projects.
+
+## Projects
+
+I have worked on projects such as a Smart Parking IoT system using Arduino and a portfolio website using HTML and CSS.
