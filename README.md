@@ -19,3 +19,7 @@
 - HTML and CSS
 - Git and GitHub
 - Database Management
+
+## Career Goal
+
+My goal is to build strong skills in software development and create useful technology projects.
