@@ -10,3 +10,12 @@
 **University:** REVA University
 
 **Career Interest:** Software Development, Web Development, and AI/ML
+
+
+## Skills
+
+- C Programming
+- Python
+- HTML and CSS
+- Git and GitHub
+- Database Management
